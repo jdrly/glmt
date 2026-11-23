@@ -1,0 +1,8 @@
+/build/
+/build-*/
+.DS_Store
+
+# an agent's notes about the checkout it works in are not part of the project
+AGENTS.md
+CLAUDE.md
+/council/
